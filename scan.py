@@ -1,5 +1,5 @@
 import bluetooth, json
-from blscan import get_nearby_devices, get_rssi_for_devices
+from blscan import get_nearby_devices get_rssi_for_devices
 
 print("Performing inquiry ... ", end='', flush=True)
 
